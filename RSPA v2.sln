@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSPA v2.Android", "RSPA v2\RSPA v2.Android\RSPA v2.Android.csproj", "{3B897289-01B3-4280-93E1-70B084007953}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSPA v2", "RSPA v2\RSPA v2\RSPA v2.csproj", "{BCC66BA2-8888-4A0F-975F-B380C2406D92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B897289-01B3-4280-93E1-70B084007953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B897289-01B3-4280-93E1-70B084007953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B897289-01B3-4280-93E1-70B084007953}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3B897289-01B3-4280-93E1-70B084007953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B897289-01B3-4280-93E1-70B084007953}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B897289-01B3-4280-93E1-70B084007953}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BCC66BA2-8888-4A0F-975F-B380C2406D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC66BA2-8888-4A0F-975F-B380C2406D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC66BA2-8888-4A0F-975F-B380C2406D92}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BCC66BA2-8888-4A0F-975F-B380C2406D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC66BA2-8888-4A0F-975F-B380C2406D92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC66BA2-8888-4A0F-975F-B380C2406D92}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF8F9343-3015-407E-892C-DD094A71DD9F}
+	EndGlobalSection
+EndGlobal
